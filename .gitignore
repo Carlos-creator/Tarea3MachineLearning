@@ -1,0 +1,28 @@
+# Dataset de Kaggle — descargar desde:
+# https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Scripts auxiliares de construccion del notebook (no son parte de la tarea)
+add_part*.py
+update_disc*.py
+create_nb3.py
+add_dataset_info.py
+
+# Contexto del asistente
+CLAUDE.md
+
+# PDF del enunciado
+*.pdf
+
+# Mac OS metadata
+__MACOSX/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Imagenes generadas por el notebook del profe
+Iteration_*.png
+ll_*.png
